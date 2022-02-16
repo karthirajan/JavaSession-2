@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/poi-ooxml-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/jar_files/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/jar_files/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/jar_files/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/jar_files/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/jar_files/poi-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/jar_files/poi-ooxml-schemas-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/jar_files/xmlbeans-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-server-3.141.59.jar"/>
+	<classpathentry kind="src" path="/cucumber"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
